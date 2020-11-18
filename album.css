@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    background-color: rgb(59, 45, 212);
+}
+table{
+    width: 100%;
+}
+img{
+    width: 300px;
+}
+li{
+    list-style-type:none ;
+    width: 300px;
+    text-align: center;
+    line-height: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+td{
+    text-align: center;
+}
+li{
+    margin: auto;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
